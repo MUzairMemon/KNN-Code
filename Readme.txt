@@ -1,0 +1,1 @@
+1. In Image Folder There must be one image at a time else it will predict last image only
